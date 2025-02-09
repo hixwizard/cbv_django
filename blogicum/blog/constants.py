@@ -1,0 +1,3 @@
+MAX_CHARACTERS: int = 256
+POSTS_TO_DISPLAY: int = 10
+LEN_STR: int = 15
